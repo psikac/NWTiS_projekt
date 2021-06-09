@@ -1,0 +1,16 @@
+org/foi/nwtis/psikac/aplikacija_2/slusaci/SlusacAplikacije.class
+org/foi/nwtis/psikac/aplikacija_2/rest/JakartaRestConfiguration.class
+org/foi/nwtis/psikac/aplikacija_2/podaci/KorisnikDAO.class
+org/foi/nwtis/psikac/aplikacija_2/podaci/AerodromDAO.class
+org/foi/nwtis/psikac/aplikacija_2/rest/MyAirportsResource.class
+org/foi/nwtis/psikac/aplikacija_2/podaci/MyAirportsLogDAO.class
+org/foi/nwtis/psikac/aplikacija_2/rest/AirportsResource.class
+org/foi/nwtis/psikac/aplikacija_2/podaci/MyAirportsDAO.class
+org/foi/nwtis/psikac/aplikacija_2/podaci/MeteoDAO.class
+org/foi/nwtis/psikac/aplikacija_2/modeli/RequestBody.class
+org/foi/nwtis/psikac/aplikacija_2/podaci/AirplaneDAO.class
+org/foi/nwtis/psikac/aplikacija_2/dretve/PreuzimanjeLetovaAviona.class
+org/foi/nwtis/psikac/aplikacija_2/klijenti/Klijent.class
+org/foi/nwtis/psikac/aplikacija_2/rest/KorisniciResource.class
+org/foi/nwtis/psikac/aplikacija_2/dretve/PreuzimanjeMeteoPodataka.class
+org/foi/nwtis/psikac/aplikacija_2/rest/JakartaEE9Resource.class

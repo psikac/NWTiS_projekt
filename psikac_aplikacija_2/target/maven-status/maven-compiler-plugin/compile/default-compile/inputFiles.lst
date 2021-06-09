@@ -1,0 +1,16 @@
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/dretve/PreuzimanjeLetovaAviona.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/rest/JakartaRestConfiguration.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/slusaci/SlusacAplikacije.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/podaci/AirplaneDAO.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/modeli/RequestBody.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/klijenti/Klijent.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/rest/KorisniciResource.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/podaci/AerodromDAO.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/podaci/KorisnikDAO.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/dretve/PreuzimanjeMeteoPodataka.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/podaci/MeteoDAO.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/rest/AirportsResource.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/rest/MyAirportsResource.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/podaci/MyAirportsDAO.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/podaci/MyAirportsLogDAO.java
+/home/NWTiS_1/psikac/projekt/psikac_aplikacija_2/src/main/java/org/foi/nwtis/psikac/aplikacija_2/rest/JakartaEE9Resource.java

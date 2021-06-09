@@ -1,0 +1,11 @@
+org/foi/nwtis/psikac/aplikacija_1/podaci/OvlastiDAO.class
+org/foi/nwtis/psikac/aplikacija_1/resources/JakartaEE9Resource.class
+org/foi/nwtis/psikac/aplikacija_1/modeli/Sjednica.class
+org/foi/nwtis/psikac/aplikacija_1/modeli/Korisnik.class
+org/foi/nwtis/psikac/aplikacija_1/slusaci/SlusacAplikacije.class
+org/foi/nwtis/psikac/aplikacija_1/JakartaRestConfiguration.class
+org/foi/nwtis/psikac/aplikacija_1/posluzitelji/ServerKorisnika.class
+org/foi/nwtis/psikac/aplikacija_1/posluzitelji/ServerKorisnika$1.class
+org/foi/nwtis/psikac/aplikacija_1/podaci/KorisnikDAO.class
+org/foi/nwtis/psikac/aplikacija_1/posluzitelji/ServerKorisnika$DretvaZahtjeva.class
+org/foi/nwtis/psikac/aplikacija_1/modeli/Podrucje.class

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>psikac konfiguracija aplikacija 1</comment>
+<entry key="server.database">jdbc:derby://localhost:1527/</entry>
+<entry key="admin.username">psikac</entry>
+<entry key="admin.password">psikac</entry>
+<entry key="admin.database">nwtis_psikac_bp1</entry>
+<entry key="user.username">psikac</entry>
+<entry key="user.password">psikac</entry>
+<entry key="user.database">nwtis_psikac_bp1</entry>
+<entry key="jdbc.mysql">com.mysql.cj.jdbc.Driver</entry>
+<entry key="jdbc.derby">org.apache.derby.jdbc.ClientDriver</entry>
+<entry key="LocationIQ.token">pk.d6efc4755df61cd6dcacc13c344e45cf</entry>
+<entry key="OpenWeatherMap.apikey">dcfd1034ad36ba188821fd8516bf671c</entry>
+<entry key="OpenSkyNetwork.korisnik">psikac</entry>
+<entry key="OpenSkyNetwork.lozinka">R68Xxubj</entry>
+<entry key="preuzimanje.status">true</entry>
+<entry key="preuzimanje.pocetak">01.01.2021</entry>
+<entry key="preuzimanje.kraj">30.04.2021</entry>
+<entry key="preuzimanje.ciklus">300</entry>
+<entry key="preuzimanje.pauza">1000</entry>
+<entry key="port">9000</entry>
+<entry key="maks.dretvi">5</entry>
+<entry key="sjednica.trajanje">100000</entry>
+<entry key="maks.broj.zahtjeva">30</entry>
+</properties>
